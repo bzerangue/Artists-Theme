@@ -5,6 +5,8 @@ permalink: pretty
 
 port: 8000
 
+baseurl: /Artists-Theme
+
 sass:
   sass_dir: assets/css
   style: :nested
